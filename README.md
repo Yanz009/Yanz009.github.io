@@ -1,27 +1,44 @@
-# Yanz009.github.io
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>HBD Bang Koding Dari Queen cina🇨🇳</title>
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-    />
-    <script src="https://cdn.tailwindcss.com"></script>
-  </head>
-  <body
-    class="flex justify-center items-center h-screen"
-    style="
-      background-image: url(https://images.unsplash.com/photo-1530273973427-22351773250c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
-      background-repeat: no-repeat;
-      background-size: cover;
-    "
-  >
-    <div
-      class="border bg-white rounded-xl px-10 border-4 border-gray-300 py-8 shadow-lg shadow-blue-300 text-center animate__animated animate__backInDown m-8 w-80"
-      id="kartu"
+from time import sleep
+print("selamat datang!, kamu yang ulang tahun \U0001F973:)")
+sleep(4)
+waktu = input("jam 12  5/11(saat ini) : ")
+sleep(0.25)
+nama = input("Queen Cina : ")
+sleep(0.75)
+umur = input("21 Tahun : ")
+sleep (2)
+print ("selamat datang", Queen)
+sleep (1)
+print(waktu)
+sleep(4)
+print("selamat ulang tahun ke-", 21 , Queen)
+sleep(3)
+print("         \U0001F525   \U0001F525")
+print("          |    |")
+sleep(1)
+print("          |    |")
+sleep(1)
+print("       ------------")
+sleep(1)
+print("       |          |")
+sleep(1)
+print("       |          |")
+sleep(1)
+print("       ------------")
+sleep(2)
+print("  ----------------------")
+sleep(1)
+print("  |                    |")
+sleep(1)
+print("  |                    |")
+sleep(1)
+print("  ----------------------")
+sleep(3)
+print("semoga panjang umur,")
+sleep(2)
+print("sehat selalu, dan bisa membanggakan orang tua \U0001F44D \U0001F44D")
+sleep(3)
+print("aku akan selalu mendoa'kan yang terbaik untuk kamu")      id="kartu"
     >
       <h1 class="text-3xl">Happy Birthday</h1>
       <h3
